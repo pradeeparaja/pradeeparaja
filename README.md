@@ -7,6 +7,8 @@ Passionate about transforming data into actionable insights. With expertise in S
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Tableau](https://public.tableau.com/app/profile/pradeepa.raja7155/vizzes)
+[![Protfolio](https://www.datascienceportfol.io/dashboard)
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
